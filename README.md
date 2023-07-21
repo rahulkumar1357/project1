@@ -1,5 +1,6 @@
 # Shopping-cart
 f3 monthly project
+view-  https://jks6404.github.io/Shopping-cart/profile/index.html
 ![image](https://github.com/jks6404/Shopping-cart/assets/119485859/c3b43826-fd94-41f0-9b9c-f8752cf98945)
 ![image](https://github.com/jks6404/Shopping-cart/assets/119485859/82eff4cc-3e4a-4638-a576-37eb39165f34)
 ![image](https://github.com/jks6404/Shopping-cart/assets/119485859/304a4839-4c8b-4c0e-81ab-d5ea5212138e)
