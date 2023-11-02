@@ -55,21 +55,24 @@
     display: flex;
     flex-flow: column ;
     gap: 10px;
+    width: 250px;
 }
 .inputs input{
     height: 40px;
     padding: 10px;
+    border-radius: 5px;
 }
 
 button{
     margin-top: 5px;
     color: white;
     background-color: black;
-    width: 170px;
+    width: 100px;
     height: 40px;
     border: none;
-    font-size: 18px;
+    font-size: 15px;
     cursor: pointer;
+    border-radius: 5px;
   }
 
 .red{

@@ -70,6 +70,7 @@ Line height
 #login-btn{
   margin-left: 45px;
   background-color: black;
+  border-radius:5px;
 
   color: white;
   width: 150px;
@@ -84,13 +85,14 @@ Line height
 height: 40px;
 top: 334px;
 left: 305px;
+border-radius:5px;
 margin-left: 25px;
 }
 
-img{
-  position: absolute;
+/* img{ */
+  /* position: absolute; */
 Width:900px;
-Position:absolute;
+/* Position:absolute; */
 Right:0;
 Top:70px;
-}
+/* } */
